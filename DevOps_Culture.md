@@ -12,7 +12,7 @@
 
 **Waterfall** was the dominant software development methodology for several decades. It is a sequential and linear diagram for software design and development processes. These sequential phases flow downwards in one direction, therefore the name of the model is **“waterfall”**. 
 
-[Agile Vs Waterfall](https://github.com/DevTiolu/Concepts-of-DevOps/blob/main/Images/Agile%20vs%20Waterfall.png)
+![Agile Vs Waterfall](https://github.com/DevTiolu/Concepts-of-DevOps/blob/main/Images/Agile%20vs%20Waterfall.png)
 
 **Agile** methodology was developed as a response to Waterfall’s more rigid structure. Agile prioritizes people, values working software, encourages customer collaboration and prioritizes adaptability over strict plans. **CI/CD**, born from Agile, speeds up software delivery by regularly integrating code changes, running automated tests, and automating the entire release process. This reduces errors, speeds up feedback, and gets products to market faster.
 
