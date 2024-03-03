@@ -2,7 +2,7 @@
 
 ## **What is DevOps?**
 
-![DevOps Lifecycle](Images/DevOps Lifecycle.png)
+![Images/DevOps Lifecycle.png](https://github.com/DevTiolu/Concepts-of-DevOps/blob/main/Images/DevOps%20Lifecycle.png)
 
 DevOps, short for Development and Operations, is a collaborative approach to software development that emphasizes communication, integration, automation, and collaboration between software developers and IT operations professionals. The goal of DevOps is to shorten the systems development life cycle and provide continuous delivery with high software quality, allowing organizations to respond to market changes more rapidly and efficiently.
 
