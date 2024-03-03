@@ -14,6 +14,8 @@
 
 **DevOps** emerged as a response to the growing need for closer collaboration and alignment between development and operations teams in Agile environments. Coined in 2009, **DevOps** emphasizes the cultural and organizational aspects of software delivery, promoting collaboration, communication, automation, and shared responsibility across development, operations, QA, and other relevant teams. DevOps aims to break down silos, streamline processes, and foster a culture of continuous improvement, enabling organizations to deliver software more efficiently and reliably.
 
+**DevOps** emphasizes automation to speed up software delivery, with **Infrastructure as Code (IaC)** managing computing resources through code files. This enables teams to automate tasks like code testing, deployment, and infrastructure provisioning using tools like **Docker**, **Kubernetes**, and **Ansible**. **DevOps** also promotes "Shift-Left" testing and security integration early in development to catch issues sooner, and "Shift-Right" monitoring in production to quickly respond to issues and improve customer satisfaction.
+
 ## **DevOps Culture in an Organization**
 
 **DevOps culture** in an organization is vital for successful implementation, emphasizing collaboration, communication, shared responsibility, automation, and continuous improvement. Here's what it entails:
