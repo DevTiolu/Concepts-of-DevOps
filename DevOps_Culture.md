@@ -8,6 +8,8 @@
 
 ## **History and Evolution of DevOps**
 
+![Waterfall Methodology](https://github.com/DevTiolu/Concepts-of-DevOps/blob/main/Images/Waterfall%20Methodology.png)
+
 **Waterfall** was the dominant software development methodology for several decades. It is a sequential and linear diagram for software design and development processes. These sequential phases flow downwards in one direction, therefore the name of the model is **“waterfall”**. 
 
 **Agile** methodology was developed as a response to Waterfall’s more rigid structure. Agile prioritizes people, values working software, encourages customer collaboration and prioritizes adaptability over strict plans. **CI/CD**, born from Agile, speeds up software delivery by regularly integrating code changes, running automated tests, and automating the entire release process. This reduces errors, speeds up feedback, and gets products to market faster.
