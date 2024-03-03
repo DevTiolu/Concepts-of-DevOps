@@ -1,6 +1,8 @@
 # **DevOps Culture in an Organization**
 
 ## **What is DevOps?**
+
+![DevOps Lifecycle]
 DevOps, short for Development and Operations, is a collaborative approach to software development that emphasizes communication, integration, automation, and collaboration between software developers and IT operations professionals. The goal of DevOps is to shorten the systems development life cycle and provide continuous delivery with high software quality, allowing organizations to respond to market changes more rapidly and efficiently.
 
 Traditionally, software development and IT operations have been distinct siloed departments within organizations, often working in isolation from each other. This separation can lead to inefficiencies, delays, and miscommunications during the software delivery process. DevOps seeks to break down these barriers by fostering closer collaboration and alignment between development and operations teams.
