@@ -2,7 +2,7 @@
 
 ## **What is DevOps?**
 
-        ![Images/DevOps Lifecycle.png](https://github.com/DevTiolu/Concepts-of-DevOps/blob/main/Images/DevOps%20Lifecycle.png)
+![Images/DevOps Lifecycle.png](https://github.com/DevTiolu/Concepts-of-DevOps/blob/main/Images/DevOps%20Lifecycle.png)
 
 **DevOps** is a collaborative approach to software development, focusing on communication, integration, and automation between developers and IT operations. It aims to shorten development cycles and ensure high-quality, continuous delivery of software. By bridging the gap between traditionally separate departments, **DevOps** enhances collaboration and efficiency in the software delivery process.
 
